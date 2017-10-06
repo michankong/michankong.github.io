@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+# General Jekyll Config
+highlighter: pygments
+url: http://www.michan.top
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
