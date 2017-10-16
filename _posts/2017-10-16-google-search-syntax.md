@@ -1,6 +1,6 @@
 ---
 layout: post
-title: google search syntex
+title: google搜索技巧
 tags: [google, search, syntax]
 categories:
 - blog
